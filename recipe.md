@@ -5,6 +5,9 @@
 - 1 3/4 cups granulated sugar
 - 3/4 cup unsweetened cocoa powder
 - 1/2 tsp ground cinnamon
+- 1/2 tsp baking soda
+- 1 cup boiling water
+- 1 cup butter
 - ...
 
 ## Instructions:
